@@ -50,10 +50,10 @@ A multi-PC network connected through Cisco switches and a router to demonstrate:
 ![Network Topology](topology.png)
 ### VLAN Configuration
 ![VLAN Configuration](vlan-config.png)
-### VLAN Assignmnet
-![VLAN Assignment](vlan-assignmnet.png)
+### VLAN Assignment
+![VLAN Assignment](vlan-assignment.png)
 ### Static IP Assignment
-![Static-IP-Assignment](Static-IP-Assignmnent.png)
+![Static-IP-Assignment](Static-IP-Assignment.png)
 ### VLAN-COMMUNICATION
 ![Vlan-communication](VLAN-COMMUNICATION.png)
 
