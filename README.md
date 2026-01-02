@@ -60,6 +60,8 @@ A multi-PC network connected through Cisco switches and a router to demonstrate:
 ![Router-Configuration](Router-Configuration.png)
 ### Enabling Trunking on Switch
 ![Enable-Trunking-On-Switch](Enable-Trunking-On-Switch.png)
+### Confirming VLAN Interconnectivity
+![Interconnectivity-VLAN](Interconnectivity-VLAN.png)
 
 
 ## Author
