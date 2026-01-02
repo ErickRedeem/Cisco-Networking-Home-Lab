@@ -56,7 +56,10 @@ A multi-PC network connected through Cisco switches and a router to demonstrate:
 ![Static-IP-Assignment](Static-IP-Assignment.png)
 ### VLAN-COMMUNICATION
 ![Vlan-communication](VLAN-COMMUNICATION.png)
-
+### Router Configuration for VLAN Interconnectivity
+![Router-Configuration](Router-Configuration.png)
+### Enabling Trunking on Switch
+![Enable-Trunking-On-Switch](Enable-Trunking-On-Switch.png)
 
 
 ## Author
