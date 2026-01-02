@@ -49,13 +49,13 @@ A multi-PC network connected through Cisco switches and a router to demonstrate:
 ### Network Topology
 ![Network Topology](topology.png)
 ### VLAN Configuration
-![VLAN Configuration](Screenshots/vlan-config.png)
+![VLAN Configuration](vlan-config.png)
 ### VLAN Assignmnet
-![VLAN Assignment](Screenshots/VLAN-COMMUNICATION.png)
+![VLAN Assignment](VLAN-COMMUNICATION.png)
 ### Static IP Assignment
-![Static-IP-Assignment](Screenshots/Static-IP-Assignment.png)
+![Static-IP-Assignment](Static-IP-Assignment.png)
 ### VLAN-COMMUNICATION
-![Vlan-communication](Screenshots/VLAN-COMMUNICATION.png)
+![Vlan-communication](VLAN-COMMUNICATION.png)
 
 
 
