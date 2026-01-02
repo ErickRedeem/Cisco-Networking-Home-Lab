@@ -53,7 +53,7 @@ A multi-PC network connected through Cisco switches and a router to demonstrate:
 ### VLAN Assignmnet
 ![VLAN Assignment](vlan-assignmnet.png)
 ### Static IP Assignment
-![Static-IP-Assignment](Static-IP-Assignment.png)
+![Static-IP-Assignment](Static-IP-Assignmnent.png)
 ### VLAN-COMMUNICATION
 ![Vlan-communication](VLAN-COMMUNICATION.png)
 
