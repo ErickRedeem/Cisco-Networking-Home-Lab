@@ -47,7 +47,7 @@ A multi-PC network connected through Cisco switches and a router to demonstrate:
 
 
 ### Network Topology
-![Network Topology](Screenshots/topology.png)
+![Network Topology](topology.png)
 ### VLAN Configuration
 ![VLAN Configuration](Screenshots/vlan-config.png)
 ### VLAN Assignmnet
