@@ -43,5 +43,21 @@ A multi-PC network connected through Cisco switches and a router to demonstrate:
 3. Review switch and router configurations
 4. Test connectivity between VLANs
 
+## Screenshot of HomeLab
+
+
+### Network Topology
+![Network Topology](Screenshots/topology.png)
+### VLAN Configuration
+![VLAN Configuration](Screenshots/vlan-config.png)
+### VLAN Assignmnet
+![VLAN Assignment](Screenshots/VLAN-COMMUNICATION.png)
+### Static IP Assignment
+![Static-IP-Assignment](Screenshots/Static-IP-Assignment.png)
+### VLAN-COMMUNICATION
+![Vlan-communication](Screenshots/VLAN-COMMUNICATION.png)
+
+
+
 ## Author
 Erick Schwartz
